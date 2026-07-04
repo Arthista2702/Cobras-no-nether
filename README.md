@@ -1,6 +1,6 @@
 # Dual Snake (Cobras-no-nether)
 
-Jogo desenvolvido para a disciplina de Algoritmos e Programação.
+Jogo desenvolvido para a disciplina de Algoritmos e Programação (2026/1).
 
 ## Alunos
 - Arthur Batista
@@ -8,22 +8,20 @@ Jogo desenvolvido para a disciplina de Algoritmos e Programação.
 
 ## Como executar
 1. Clone este repositório.
-2. Abra o seu terminal e entre na pasta do projeto:
+2. Abra a pasta do projeto no PyCharm e certifique-se de que o interpretador **Python 3.13** está selecionado para o projeto.
+3. Abra o terminal do PyCharm e entre na pasta do jogo:
    `cd Minesweeper`
-3. Instale as dependências necessárias:
+4. Instale as dependências necessárias no ambiente do Python 3.13:
    `pip install -r requirements.txt`
-4. Execute o jogo:
+5. Execute o jogo:
    `python jogocobra.py`
-
-## Assets e Direitos Autorais
-Os arquivos de mídia (imagens e sons) foram utilizados estritamente para fins acadêmicos. 
 
 ## Assets e Direitos Autorais
 Este projeto utiliza recursos de terceiros para fins estritamente acadêmicos e educacionais. Não possuímos direitos sobre estes ativos e eles não fazem parte da licença MIT deste repositório:
 
 - **Estrela:** Baseada em design de propriedade da Nintendo (Super Mario Bros).
 - **Música (Raphael's Final Act):** Copyright ©2023 Larian Studios (Baldur's Gate 3).
-- **Músicas:** Propriedade da Microsoft/Mojang (Minecraft).
+- **Músicas de Fundo:** Propriedade da Microsoft/Mojang (Minecraft).
 
 Este projeto não tem fins lucrativos.
 
